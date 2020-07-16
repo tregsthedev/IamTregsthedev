@@ -1,21 +1,31 @@
-### Hi there 👋
+### Arav Narula - IamTregsthedev
+
+My name is Arav Narula! I'm a Web Developer, and Writer from Toronto,Ontairo Somewhwere in Canada :). 
+
+## 🔭 I’m currently working on ...
+I love Making Projects. Right now, I'm working on The Noble Project! It's a Project where I'm Trying to make Simple and Elegant Altertive to Today's Many Used Apps. <br>
+Right now though, I'm working on The Noble Web Store. A Simple, Privacy-First Altertive to the Chrome Web Store.
+
+## 🌱 I’m currently learning ...
+
+Just because I'm making apps doesn't mean I kow everything. Currrently I'm working on Learning more about
+
+- JavaScript
+- React
+-JQuery
+
+Thesse are some of the things I'm Learning right now! What about you?
 
 
-### A Little About me
+## My STrenghs
 
-I'm a Web Developer, who is in love with everything git and coding. Progamming is my Hidden Talent to some people :P
+I have many Strenghs, I'm a aweasome developer who is still learning something every day :)
 
-<!--
-**IamTregsthedev/IamTregsthedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Html and CSS
+- Website Planning and Design
+- Javascript (5/10)
+- Writing
 
-Here are some ideas to get you started:
+# Goals for This Year
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I want to become a better Developer and Get Subscribers for my newsletter! I also want to build atleast 2 apps before the end of 2020.
