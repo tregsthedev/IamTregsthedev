@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+### A Little About me
+
+I'm a Web Developer, who is in love with everything git and coding. Progamming is my Hidden Talent to some people :P
+
 <!--
 **IamTregsthedev/IamTregsthedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
